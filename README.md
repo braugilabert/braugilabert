@@ -1,5 +1,5 @@
 - 👋 Hello there! I’m @braugilabert 
-- 👀 I’m interested in Data Science, Analysis and Engineering.
-- 🌱 I’m currently learning all three with two bootcamps and some courses...
-- 💞️ I’m looking to collaborate on a good company with good team.
-- 📫 You can reach me by...
+- 👀 I’m interested in Data Science, Analysis and Engineering jobs.
+- 🌱 I’m currently learning all three with two bootcamps and some courses.
+- 💞️ I’m looking to collaborate on a company with good team.
+- 📫 You can reach me by email braulio2297@gmail.com or in Instagram and X @braugilabert
