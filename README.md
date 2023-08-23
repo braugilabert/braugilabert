@@ -1,5 +1,5 @@
 - 👋 Hello there! I’m @braugilabert 
-- 👀 I’m interested in Data Science, Analysis and Engineering jobs.
-- 🌱 I’m still learning after two bootcamps and some courses. You can find the certificates here: https://github.com/braugilabert/Data-Science-files/tree/main/My%20certificates
-- 💞️ I’m looking to collaborate on a company with good team.
-- 📫 You can reach me by email braulio2297@gmail.com or in Instagram and X @braugilabert
+- 👀 I’m interested in Data Science, Analysis and Engineering
+- 🌱 I’m still learning after two bootcamps and some courses. You can find my the certificates in https://github.com/braugilabert/Data-Science-files/tree/main/My%20certificates
+- 💞️ I’m looking to collaborate on a company with a good team, working hybrid or remotely if that's possible
+- 📫 You can reach me by email braulio2297@gmail.com or in Instagram and X (Twitter) @braugilabert
