@@ -1,5 +1,4 @@
 - 👋 Hello there! I’m @braugilabert 
-- 👀 I’m interested in Data Science, Data Analysis and AI Agents
-- 🌱 I’m still learning after two bootcamps and some courses. My certificates in https://github.com/braugilabert/Data-Science-files/tree/main/My%20certificates
-- 💞️ I’m looking to collaborate on a company with a good team
+- 👀 I’m interested in Data Science, Data Analysis and AI Agents.
+- 🌱 Still learning after two bootcamps in Data Science and some courses. My certificates in https://drive.google.com/drive/folders/1Cr9nbNuYWJI_HUVkLjrbs0siSfVO0BFr
 - 📫 You can reach me by email braulio2297@gmail.com or in Instagram and X @braugilabert
